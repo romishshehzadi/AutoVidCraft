@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687931871146",
+    "project_id": "autovidcraft-d78a3",
+    "storage_bucket": "autovidcraft-d78a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687931871146:android:650bbc8401a99a3470a5d3",
+        "android_client_info": {
+          "package_name": "com.example.auto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiD_XOBGuiQ4AXBXd4qEpTgAYZNWNC0OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
